@@ -1,0 +1,7 @@
+##ignore this file##
+/metastore_db/
+/spark-warehouse/
+.idea
+.derby.log
+*.iml
+target/*
