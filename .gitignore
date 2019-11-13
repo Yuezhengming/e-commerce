@@ -1,7 +1,7 @@
 ##ignore this file##
 /metastore_db/
 /spark-warehouse/
+target/
 .idea
-.derby.log
+derby.log
 *.iml
-target/*
