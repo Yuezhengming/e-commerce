@@ -43,9 +43,6 @@ object HelloWorld {
 //    parameter = parameter.substring(0,parameter.length-1)
 //    println(parameter)
 
-    val time = "350"
-    println(time.toLong)
-
   }
 
 }
