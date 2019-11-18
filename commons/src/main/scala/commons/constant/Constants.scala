@@ -17,6 +17,10 @@ object Constants {
   val JDBC_USER = "jdbc.user"
   val JDBC_PASSWORD = "jdbc.password"
 
+  /**
+    * KAFKA配置相关的常量
+    */
+  val KAFKA_BROKER_LIST = "kafka.broker.list"
   val KAFKA_TOPICS = "kafka.topics"
 
   /**

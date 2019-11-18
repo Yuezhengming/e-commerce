@@ -33,7 +33,7 @@ object MockRealTimeData {
       val province = random.nextInt(10)
       val city = province
       val adid = random.nextInt(20)
-      val userid = random.nextInt(100)
+      val userid = random.nextInt(3)
 
       // 拼接实时数据
       array += timestamp + " " + province + " " + city + " " + userid + " " + adid
